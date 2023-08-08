@@ -1,0 +1,14 @@
+[
+    {
+        "status": "success",
+        "data": {
+            "response": "Você está mais próximo de se juntar ao time!"
+        }
+    },
+    {
+        "status": "success",
+        "data": {
+            "response": "Erro"
+        }
+    }
+]
